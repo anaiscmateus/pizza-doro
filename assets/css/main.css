@@ -2177,8 +2177,8 @@ input, select, textarea {
 		input[type="reset"].primary,
 		button.primary,
 		.button.primary {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: #990100;
+			border-color: #990100;
 			color: #fff !important;
 		}
 
@@ -2221,7 +2221,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #990100;
+			background-color: #d3a0a3;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
